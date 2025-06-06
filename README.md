@@ -6,7 +6,7 @@ This project is an exploratory data analysis (EDA) of Netflix's movie data using
 
 ## 📂 File
 
-- `Netflix - movie data analysis.ipynb`: Jupyter notebook with full analysis, visualizations, and insights.
+- [`Netflix - movie data analysis.ipynb`](http://localhost:8892/notebooks/Documents/Netflix%20-%20movie%20data%20analysis.ipynb): Jupyter notebook with full analysis, visualizations, and insights.
 
 ---
 
